@@ -39,5 +39,8 @@ In summary, the Pink Chat application combines a vibrant design with functional 
 
       OUTPUT:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/62248b40-8c61-462f-9076-b47651938efa" />
+      
+
 
          
